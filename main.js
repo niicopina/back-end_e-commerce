@@ -93,3 +93,11 @@ pm.addProduct({
     code: 'PROD3',
     stock: 5
 })
+/* const products = pm.getProducts()
+console.log(products)
+
+const product = pm.getProductsById(1)
+console.log(product)
+
+const nonExistentProduct = pm.getProductsById(100)
+console.log(nonExistentProduct) */
